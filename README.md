@@ -3,12 +3,13 @@
   * Information and Communication technology - Major in **Mobile Solutions** Graduation in 2022
 * Former student in Helsinki University of Technology / Aalto University
 
-## Languages & frameworks I'm comfortable with
+## Languages, frameworks & tools
 * Kotlin
 * Javascript
 * React Native
 * Swift
 * Java
+* Node.js
 
 
 ## Recent Projects
