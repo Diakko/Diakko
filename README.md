@@ -10,6 +10,7 @@
 * Swift
 * Java
 * Node.js
+* CI & CD
 
 
 ## Recent Projects
