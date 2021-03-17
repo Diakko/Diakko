@@ -26,3 +26,8 @@
 * Webstorm
 * Visual Studio Code
 * XCode
+
+# Contact Info
+* [LinkedIn](www.linkedin.com/in/matias-hätönen)
+* [Email me](mailto:matias.hatonen@gmail.com?subject=[GitHub])
+
