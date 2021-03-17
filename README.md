@@ -6,8 +6,8 @@
 ## Languages, frameworks & tools
 * Kotlin
 * Javascript
-* React Native
 * Swift
+* React Native
 * Java
 * Node.js
 * CI & CD
