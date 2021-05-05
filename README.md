@@ -14,6 +14,7 @@
 
 
 ## Recent Projects
+* Kotlin, GraphQL, MQTT, GTFS-RT [Android app](https://github.com/Diakko/nokia-hsl) for visualising transportation problems in the HSL public transport region
 * Kotlin - Barcode scanner [app](https://github.com/Diakko/SensorBasedMobileProject)
 * Swift - Zalando zircle mobile shop 
 * Kotlin - Chat client / server school project
