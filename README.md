@@ -10,7 +10,7 @@
 * React Native
 * Java
 * Node.js
-* CI & CD
+* CI & CD | Github Actions, GitLab CI/CD
 
 
 ## Recent Projects
