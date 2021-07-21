@@ -30,6 +30,6 @@
 * XCode
 
 ###### Contact Info
-* [LinkedIn](www.linkedin.com/in/matias-hätönen)
+* [LinkedIn](https://www.linkedin.com/in/matias-h%C3%A4t%C3%B6nen/)
 * [Email me](mailto:matias.hatonen@gmail.com?subject=[GitHub])
 
