@@ -11,6 +11,7 @@
 * Java
 * Node.js
 * CI & CD | Github Actions, GitLab CI/CD
+* Linux
 
 
 ## Recent Projects
