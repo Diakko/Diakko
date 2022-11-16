@@ -1,3 +1,7 @@
+## Career
+* Junior software Engineer at [Qvik](https://qvik.com/)
+ * Developing OmaMehiläinen App on Mehiläinen in 2022 
+
 ## Software engineer student
 * Student in [Metropolia University of Applied Sciences](https://www.metropolia.fi/en)
   * Information and Communication technology - Major in **Mobile Solutions** Graduation in 2022
