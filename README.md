@@ -1,7 +1,7 @@
 ## Career
 * Junior software Engineer at [Qvik](https://qvik.com/)
   * OmaMehiläinen -app
-  * Sms-Livsräddare/Trygfonden TrygFonden Hjerteløber -app
+  * Sms-Livsräddare/Trygfonden Hjerteløber -app
   * Golf Gamebook -app
 
 ## Software engineer student
