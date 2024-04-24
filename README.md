@@ -21,6 +21,9 @@
 
 
 ## Recent Projects
+* Kotlin, Swift, Jetpack Compose (Golf Gamebook)[https://play.google.com/store/apps/details?id=com.freedropinnovations.gamebookInter&hl=sv]
+* Kotlin, Jetpack Compose (Sms-livsräddare)[https://play.google.com/store/apps/details?id=no.ums.smslivraddare2&hl=sv]
+* Kotlin (Omamehiläinen app)[https://play.google.com/store/apps/details?id=fi.mehilainen.mobileapp&hl=fi]
 * Kotlin, GraphQL, MQTT, GTFS-RT [Android app](https://github.com/Diakko/nokia-hsl) for visualising transportation problems in the HSL public transport region
 * Kotlin - Barcode scanner [app](https://github.com/Diakko/SensorBasedMobileProject)
 * Swift - Zalando zircle mobile shop 
