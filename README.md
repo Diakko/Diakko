@@ -1,10 +1,12 @@
 ## Career
 * Junior software Engineer at [Qvik](https://qvik.com/)
-  * Developing OmaMehiläinen App on Mehiläinen in 2022 
+  * OmaMehiläinen -app
+  * Sms-Livsräddare/Trygfonden TrygFonden Hjerteløber -app
+  * Golf Gamebook -app
 
 ## Software engineer student
 * Student in [Metropolia University of Applied Sciences](https://www.metropolia.fi/en)
-  * Information and Communication technology - Major in **Mobile Solutions** Graduation in 2022
+  * Information and Communication technology - Major in **Mobile Solutions** 
 * Former student in Helsinki University of Technology / Aalto University
 
 ## Languages, frameworks & tools
