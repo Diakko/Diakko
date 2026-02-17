@@ -1,6 +1,6 @@
 ## Career
 * Software Engineer at [Qvik](https://qvik.com/)
-  * Android and iOS Applications
+  * Android and iOS applications
 
 ## Software engineer student
 * Student in [Metropolia University of Applied Sciences](https://www.metropolia.fi/en)
